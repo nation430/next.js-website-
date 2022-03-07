@@ -13,7 +13,7 @@ const Footer = () => {
           </svg>
           <span className="ml-3 text-2xl text-white">Logo</span>
         </a>
-        <p className="mt-2 text-sm  text-white">
+        <p className="mt-2 text-xl leading-2   text-white ">
         This website is made with Next.js, a unique and beautiful framwork that is flexible and modular. 
         A complete and customizable solution to building the website of your dreams.
         </p>
@@ -92,7 +92,7 @@ const Footer = () => {
     <div className="bg-transparent border-t ">
       <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row pt-10">
         <p className="text-white text-sm text-center sm:text-left">© 2022 —
-          <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" className="text-gray-400 ml-1" target="_blank">@Me</a>
+          <a href="#" rel="noopener noreferrer" className="text-gray-400 ml-1" target="_blank">@Me</a>
         </p>
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
           <a className="text-gray-200">
